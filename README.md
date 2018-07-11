@@ -1,8 +1,6 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# LinkOS-Android-Samples-TapScanConnectTCPBT
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 4 35 34 pm" src="https://user-images.githubusercontent.com/41017424/42539083-8070492a-845f-11e8-94c8-b9c6c58f2982.png">
